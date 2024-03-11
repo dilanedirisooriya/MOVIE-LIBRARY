@@ -1,0 +1,23 @@
+[
+    {
+        "fname": "Dilan",
+        "lname": "Edirisooriya",
+        "email": "dilan.s.edirisooriya@gmail.com",
+        "telnumber": "0775595540",
+        "message": "Welcome"
+    },
+    {
+        "fname": "Amal",
+        "lname": "",
+        "email": "amal@gmail.com",
+        "telnumber": "0775595555",
+        "message": "Welcome"
+    },
+    {
+        "fname": "Jhone",
+        "lname": "Abey",
+        "email": "jabey@gmail.com",
+        "telnumber": "0775596644",
+        "message": "I am Jhone"
+    }
+]
